@@ -15,6 +15,7 @@ namespace CompiladoresInterpretes
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Este es un cambio");
         }
     }
 }
